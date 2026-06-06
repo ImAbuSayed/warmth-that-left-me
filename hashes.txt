@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Warmth That Left Me
+
+This log tracks the cryptographic history and versioning for the song **Warmth That Left Me** (warmth-that-left-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:57:02.744070 | `v1` | `4bf7a35ff6071067b1f720e69155fdcb446604b6f03b9aafbd96d9aa389b7628` | `68c5108c663960cdd67613d389798ca7a385a6e701ace5fe1f40a7745f008e23` | `2026-06-06_warmth-that-left-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
