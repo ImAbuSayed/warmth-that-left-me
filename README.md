@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warmth-that-left-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Warmth That Left Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-that-left-me/) |
+| **Get License** | [Request Licensing for Warmth That Left Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-that-left-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> A quiet fire waiting for a spark
+> I need you closer, shadows start to fall
+> The warmth that left me echoes down the hall
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
